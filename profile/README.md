@@ -1,6 +1,6 @@
-## Hi there 👋
+## University of Leeds Planetary Modelling
 
-**Here are some ideas to get you started:**
+**Pleae help fill in...**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
