@@ -1,9 +1,8 @@
-## University of Leeds Planetary Modelling
+# University of Leeds Planetary Modelling :)
 
-**Pleae help fill in...**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+###
+## Useful Stuff
+###
+- **Github** quickstart guide [here](https://github.com/UoL-Planetary-Modelling/Github_QuickStart_Guide)
+- Instructions for getting up and running with **Python** & **Jupyter Notebooks** can be found [here](https://github.com/UoL-Planetary-Modelling/General_Documentation/blob/main/Python/Jupyter_Notebooks_Setup.md)
+- Info on how to run **WACCM** can be found here: [here](https://github.com/UoL-Planetary-Modelling/General_Documentation/blob/main/WACCM%20Guides%20%26%20Tutorials/WACCM_Workflow.md)
